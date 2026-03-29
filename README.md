@@ -45,7 +45,13 @@ I am a **Fullstack Open Source Web Development** student at **Nackademin** in St
 ### GitHub Status & Activity 📈
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical&hide_border=false" alt="Manau's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManauTunjae&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManauTunjae&theme=radical" alt="Manau's Streak" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManauTunjae&layout=compact&theme=radical" alt="Top Languages" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManauTunjae&theme=radical" alt="GitHub Streak" />
 </p>
